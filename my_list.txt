@@ -1,0 +1,7 @@
+"Baltimore, Ravens"
+"Seattle, Seahawks"
+"San Francisco, 49ers"
+"New England, Patriots"
+"Kansas City, Chiefs"
+"Green Bay, Packers"
+"Tennesse, Titans"
